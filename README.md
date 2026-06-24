@@ -83,14 +83,6 @@ MODEL_PARAMS = {
 
 ---
 
-## Screenshot
-
-Example benchmarking dashboard:
-
-![Dashboard Screenshot](evidence/Screenshot 2026-06-24 124806.png)
-
----
-
 ## System Architecture
 
 ```text
