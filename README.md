@@ -87,7 +87,7 @@ MODEL_PARAMS = {
 
 Example benchmarking dashboard:
 
-![Dashboard Screenshot](evidence/screenshot.png)
+![Dashboard Screenshot](evidence/Screenshot 2026-06-24 124806.png)
 
 ---
 
